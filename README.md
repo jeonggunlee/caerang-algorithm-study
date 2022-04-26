@@ -17,7 +17,7 @@
 ## PR(pull request) 규칙
 ![image](https://user-images.githubusercontent.com/38518648/165247130-ac6a79e6-bbaf-4578-b6b7-df1355cb1103.png)
 
-- PR 이름은 알고리즘 문제 상세하게 적기.
+- PR 이름은 알고리즘 문제 제목 or 번호 and 난이도 상세하게 적기.
 - label 에 사용한 언어를 추가!
 
 ## 알고리즘 연습하기
